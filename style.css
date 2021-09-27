@@ -1,0 +1,39 @@
+.announcement img{
+height: 500px;
+width: 700px;
+padding: 30px;
+}
+.travelmain_Div{
+height: 600px;
+width: 400px;
+float: left;
+padding:40px;
+}
+.achievement_head{
+width:100%;
+text-align: center;
+font-size: 25px;
+border-radius: 20px;
+padding:15px 25px;
+margin-top:30px;
+}
+.achievement_head i{
+    float: right;
+}
+#achievement1{
+width: 1000px;
+}
+#achievement2{
+width: 1000px;
+}
+#achievement3{
+width: 1000px;
+}
+.contents{
+position: sticky;
+top:0px;
+z-index:99999;
+}
+#whatsnew ul{
+width: 1000px;
+}
